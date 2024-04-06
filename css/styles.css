@@ -1,10 +1,9 @@
 body {
   background: #f6f6fa;
-  padding: 40px 40px 40px 40px;
+  padding: 0;
   font-family: "Montserrat", sans-serif;
 }
-ul,
-ol {
+ul {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -18,7 +17,7 @@ ol {
 
 /* main content styles */
 .main-content {
-  padding: 80px 80px 40px 80px;
+  padding: 40px;
   box-sizing: border-box;
 }
 
@@ -45,23 +44,18 @@ ol {
   margin-top: 0;
   margin-bottom: 8px;
 }
-.contact-type {
-  color: #161d2a;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 24px;
-  margin-right: 8px;
-}
+
 .contacts-link {
   color: #2979ff;
   font-size: 14px;
   font-weight: 400;
-  text-decoration: underline;
+  text-decoration: none;
   line-height: 24px;
 }
 .contacts-item {
   margin-top: 0;
-  margin-bottom: 4%;
+  margin-bottom: 0;
+  line-height: 24px;
 }
 .contacts-box {
   margin-bottom: 40px;
@@ -113,7 +107,7 @@ ol {
 }
 .my-name {
   color: black;
-  font-size: 45px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 55px;
   margin-top: 0;
@@ -138,21 +132,21 @@ ol {
   margin-bottom: 8px;
 }
 .my-projects-item {
-  color: black;
+  color: #595959;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 24px;
 }
 .my-projects-list {
   padding-left: 16px;
 }
 .my-projects-item-link {
-  color: #005fff;
-  font-size: 14px;
-  font-weight: 400;
-  text-decoration: underline;
+  color: #6d9bf5;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
   line-height: 24px;
-  margin-left: 14px;
+  margin-right: 8px;
 }
 .my-project-item-tech {
   color: #595959;
