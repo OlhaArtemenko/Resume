@@ -1,5 +1,5 @@
 body {
-  background: #f6f6fa;
+  background: white;
   padding: 0;
   font-family: "Montserrat", sans-serif;
 }
@@ -11,7 +11,7 @@ ul {
   background: white;
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1100px;
   margin: 0 auto;
 }
 
@@ -46,7 +46,7 @@ ul {
 }
 
 .contacts-link {
-  color: #2979ff;
+  color: #161d2a;
   font-size: 14px;
   font-weight: 400;
   text-decoration: none;
@@ -141,7 +141,7 @@ ul {
   padding-left: 16px;
 }
 .my-projects-item-link {
-  color: #6d9bf5;
+  color: #161d2a;
   font-size: 16px;
   font-weight: 700;
   text-decoration: none;
@@ -177,7 +177,7 @@ ul {
   margin-bottom: 12px;
 }
 .company {
-  color: #6d9bf5;
+  color: #161d2a;
 }
 .period-of-working {
   color: #a8a8a8;
@@ -212,7 +212,7 @@ ul {
   margin-bottom: 8px;
 }
 .education-uni-name {
-  color: #6d9bf5;
+  color: #161d2a;
   font-size: 16px;
   font-weight: 700;
   margin-top: 0;
