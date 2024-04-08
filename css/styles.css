@@ -23,7 +23,7 @@ ul {
 
 /* side bar styles */
 .side-bar {
-  background: #e0ebfe;
+  background: #f5f5f5;
   padding-top: 40px;
   padding-bottom: 40px;
   box-sizing: border-box;
@@ -31,7 +31,7 @@ ul {
 }
 .sidebar-content {
   padding-left: 40px;
-  padding-top: 40px;
+  padding-top: 67px;
   padding-right: 40px;
   box-sizing: border-box;
 }
@@ -53,6 +53,8 @@ ul {
   line-height: 24px;
 }
 .contacts-item {
+  color: #161d2a;
+  font-size: 14px;
   margin-top: 0;
   margin-bottom: 0;
   line-height: 24px;
@@ -73,7 +75,7 @@ ul {
 }
 .tech-skill-titel {
   color: #161d2a;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: normal;
   margin-top: 0;
@@ -81,7 +83,7 @@ ul {
 }
 .soft-skill-titel {
   color: #161d2a;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: normal;
   margin-top: 0;
@@ -99,9 +101,9 @@ ul {
 /* main content styles */
 .my-profession {
   color: black;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
-  line-height: 17px;
+  line-height: 27px;
   margin-top: 0;
   margin-bottom: 8px;
 }
@@ -114,7 +116,7 @@ ul {
   margin-bottom: 12px;
 }
 .my-descr {
-  color: #595959;
+  color: #161d2a;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -125,14 +127,14 @@ ul {
 /* my project styles */
 .projects-title {
   color: black;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 27px;
   margin-top: 0;
   margin-bottom: 8px;
 }
 .my-projects-item {
-  color: #595959;
+  color: #161d2a;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -142,7 +144,7 @@ ul {
 }
 .my-projects-item-link {
   color: #161d2a;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   text-decoration: none;
   line-height: 24px;
@@ -162,7 +164,7 @@ ul {
 /* work experience styles*/
 .experience-title {
   color: black;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 27px;
   margin-top: 0;
@@ -170,7 +172,7 @@ ul {
 }
 .work-experience-company {
   color: black;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 20px;
   margin-top: 0;
@@ -191,7 +193,7 @@ ul {
 }
 
 .work-experience-duties-list {
-  color: #595959;
+  color: #161d2a;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -201,11 +203,13 @@ ul {
 .work-experience-conteiner {
   margin-bottom: 12px;
 }
-
+.achievement-title {
+  margin: 0;
+}
 /* education styles */
 .education-title {
   color: black;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 27px;
   margin-top: 0;
@@ -213,7 +217,7 @@ ul {
 }
 .education-uni-name {
   color: #161d2a;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 12px;
@@ -221,7 +225,7 @@ ul {
 .education-speciality {
   color: black;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 400;
   margin-top: 0;
   margin-bottom: 12px;
 }
